@@ -1,16 +1,112 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**5aikat213/5aikat213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Saikat%20Chakraborty&fontSize=52&fontColor=58a6ff&fontAlignY=40&desc=Tech%20Enthusiast%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=65&descSize=16&descColor=8b949e&animation=twinkling" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  > Tech enthusiast building things that scale                           │
+│  > 12 years across Amazon · Microsoft · McAfee                         │
+│  > From XDR threat correlation to LLM inference pipelines              │
+│  > Currently hacking away in Berlin 🏗️                                 │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## ⚡ What I work on
+
+```rust
+fn me() -> Enthusiast {
+    Enthusiast {
+        focus:    vec!["LLM Tooling", "Distributed Systems", "Creative Coding"],
+        security: vec!["XDR", "Threat Correlation", "Malware Analysis"],
+        building: vec!["AI-native products", "Agent architectures", "Local LLM tooling"],
+        location: "Berlin, DE 🇩🇪",
+    }
+}
+```
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhsMiAydjZ6bTQgMGgtMlY4bDIgMnY2eiIvPjwvc3ZnPg==&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![localllm-rust-tool-calling](https://github-readme-stats.vercel.app/api/pin/?username=5aikat213&repo=localllm-rust-tool-calling&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/5aikat213/localllm-rust-tool-calling)
+[![zio-ollama-tool-calling](https://github-readme-stats.vercel.app/api/pin/?username=5aikat213&repo=zio-ollama-tool-calling&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/5aikat213/zio-ollama-tool-calling)
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=5aikat213&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5aikat213&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=5aikat213&theme=github-dark-blue&border=30363d&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=8b949e&dates=8b949e)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_saikat_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trulysaikat@gmail.com)
+[![Berlin](https://img.shields.io/badge/📍%20Berlin-1a1a2e?style=for-the-badge)](https://github.com/5aikat213)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+
+</div>
