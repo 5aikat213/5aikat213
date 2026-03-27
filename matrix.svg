@@ -1,0 +1,264 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="120" fill="#000"/>
+  <style>
+    @keyframes fall0  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall1  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall2  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall3  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall4  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall5  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall6  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall7  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall8  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall9  { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall10 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall11 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall12 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall13 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall14 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall15 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall16 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall17 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall18 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall19 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall20 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall21 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall22 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall23 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall24 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall25 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall26 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall27 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall28 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall29 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall30 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall31 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall32 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall33 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall34 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall35 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall36 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall37 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall38 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall39 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall40 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall41 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall42 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall43 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall44 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall45 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall46 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall47 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall48 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    @keyframes fall49 { 0%{transform:translateY(-120px)}100%{transform:translateY(120px)} }
+    .col { font-family: monospace; font-size: 13px; }
+    .bright { fill: #ffffff; font-weight: bold; }
+    .mid    { fill: #00ff41; }
+    .dim    { fill: #00aa22; }
+    .faint  { fill: #006614; }
+  </style>
+
+  <clipPath id="clip"><rect width="800" height="120"/></clipPath>
+  <g clip-path="url(#clip)">
+
+    <text class="col bright" x="4"   style="animation:fall0  2.1s -0.3s linear infinite">D</text>
+    <text class="col mid"    x="4"   style="animation:fall0  2.1s -1.1s linear infinite">1</text>
+    <text class="col dim"    x="4"   style="animation:fall0  2.1s -1.8s linear infinite">ア</text>
+
+    <text class="col bright" x="20"  style="animation:fall1  1.8s -0.7s linear infinite">E</text>
+    <text class="col mid"    x="20"  style="animation:fall1  1.8s -1.4s linear infinite">0</text>
+    <text class="col faint"  x="20"  style="animation:fall1  1.8s -0.2s linear infinite">Λ</text>
+
+    <text class="col bright" x="36"  style="animation:fall2  2.4s -1.2s linear infinite">E</text>
+    <text class="col mid"    x="36"  style="animation:fall2  2.4s -0.5s linear infinite">イ</text>
+    <text class="col dim"    x="36"  style="animation:fall2  2.4s -2.0s linear infinite">1</text>
+
+    <text class="col bright" x="52"  style="animation:fall3  1.6s -0.4s linear infinite">P</text>
+    <text class="col mid"    x="52"  style="animation:fall3  1.6s -1.0s linear infinite">ウ</text>
+    <text class="col faint"  x="52"  style="animation:fall3  1.6s -1.5s linear infinite">Σ</text>
+
+    <text class="col mid"    x="68"  style="animation:fall4  2.2s -0.9s linear infinite">S</text>
+    <text class="col dim"    x="68"  style="animation:fall4  2.2s -1.7s linear infinite">0</text>
+    <text class="col faint"  x="68"  style="animation:fall4  2.2s -0.3s linear infinite">カ</text>
+
+    <text class="col bright" x="84"  style="animation:fall5  1.9s -0.6s linear infinite">O</text>
+    <text class="col mid"    x="84"  style="animation:fall5  1.9s -1.3s linear infinite">エ</text>
+    <text class="col dim"    x="84"  style="animation:fall5  1.9s -0.1s linear infinite">1</text>
+
+    <text class="col bright" x="100" style="animation:fall6  2.6s -1.5s linear infinite">C</text>
+    <text class="col mid"    x="100" style="animation:fall6  2.6s -0.8s linear infinite">オ</text>
+    <text class="col faint"  x="100" style="animation:fall6  2.6s -2.2s linear infinite">Ψ</text>
+
+    <text class="col mid"    x="116" style="animation:fall7  1.7s -0.2s linear infinite">0</text>
+    <text class="col dim"    x="116" style="animation:fall7  1.7s -1.0s linear infinite">キ</text>
+    <text class="col faint"  x="116" style="animation:fall7  1.7s -1.6s linear infinite">Ω</text>
+
+    <text class="col mid"    x="132" style="animation:fall8  2.3s -0.7s linear infinite">1</text>
+    <text class="col dim"    x="132" style="animation:fall8  2.3s -1.9s linear infinite">ク</text>
+    <text class="col faint"  x="132" style="animation:fall8  2.3s -0.4s linear infinite">⊕</text>
+
+    <text class="col mid"    x="148" style="animation:fall9  2.0s -1.1s linear infinite">0</text>
+    <text class="col dim"    x="148" style="animation:fall9  2.0s -0.5s linear infinite">ケ</text>
+    <text class="col faint"  x="148" style="animation:fall9  2.0s -1.7s linear infinite">Λ</text>
+
+    <text class="col bright" x="164" style="animation:fall10 2.5s -0.3s linear infinite">R</text>
+    <text class="col mid"    x="164" style="animation:fall10 2.5s -1.4s linear infinite">コ</text>
+    <text class="col dim"    x="164" style="animation:fall10 2.5s -2.1s linear infinite">1</text>
+
+    <text class="col bright" x="180" style="animation:fall11 1.8s -0.8s linear infinite">U</text>
+    <text class="col mid"    x="180" style="animation:fall11 1.8s -1.6s linear infinite">0</text>
+    <text class="col faint"  x="180" style="animation:fall11 1.8s -0.2s linear infinite">サ</text>
+
+    <text class="col bright" x="196" style="animation:fall12 2.2s -1.3s linear infinite">S</text>
+    <text class="col mid"    x="196" style="animation:fall12 2.2s -0.6s linear infinite">シ</text>
+    <text class="col dim"    x="196" style="animation:fall12 2.2s -1.9s linear infinite">Σ</text>
+
+    <text class="col bright" x="212" style="animation:fall13 1.6s -0.4s linear infinite">T</text>
+    <text class="col mid"    x="212" style="animation:fall13 1.6s -1.1s linear infinite">ス</text>
+    <text class="col faint"  x="212" style="animation:fall13 1.6s -1.5s linear infinite">1</text>
+
+    <text class="col mid"    x="228" style="animation:fall14 2.4s -0.9s linear infinite">0</text>
+    <text class="col dim"    x="228" style="animation:fall14 2.4s -1.7s linear infinite">セ</text>
+    <text class="col faint"  x="228" style="animation:fall14 2.4s -0.3s linear infinite">∀</text>
+
+    <text class="col mid"    x="244" style="animation:fall15 1.9s -1.2s linear infinite">1</text>
+    <text class="col dim"    x="244" style="animation:fall15 1.9s -0.5s linear infinite">ソ</text>
+    <text class="col faint"  x="244" style="animation:fall15 1.9s -2.0s linear infinite">⊗</text>
+
+    <text class="col bright" x="260" style="animation:fall16 2.7s -0.6s linear infinite">S</text>
+    <text class="col mid"    x="260" style="animation:fall16 2.7s -1.4s linear infinite">タ</text>
+    <text class="col dim"    x="260" style="animation:fall16 2.7s -0.1s linear infinite">0</text>
+
+    <text class="col bright" x="276" style="animation:fall17 2.1s -1.0s linear infinite">C</text>
+    <text class="col mid"    x="276" style="animation:fall17 2.1s -0.3s linear infinite">チ</text>
+    <text class="col faint"  x="276" style="animation:fall17 2.1s -1.8s linear infinite">Ψ</text>
+
+    <text class="col bright" x="292" style="animation:fall18 1.7s -0.7s linear infinite">A</text>
+    <text class="col mid"    x="292" style="animation:fall18 1.7s -1.5s linear infinite">1</text>
+    <text class="col dim"    x="292" style="animation:fall18 1.7s -0.4s linear infinite">ツ</text>
+
+    <text class="col bright" x="308" style="animation:fall19 2.3s -1.3s linear infinite">L</text>
+    <text class="col mid"    x="308" style="animation:fall19 2.3s -0.6s linear infinite">テ</text>
+    <text class="col faint"  x="308" style="animation:fall19 2.3s -2.1s linear infinite">Λ</text>
+
+    <text class="col bright" x="324" style="animation:fall20 2.0s -0.2s linear infinite">A</text>
+    <text class="col mid"    x="324" style="animation:fall20 2.0s -1.0s linear infinite">ト</text>
+    <text class="col dim"    x="324" style="animation:fall20 2.0s -1.7s linear infinite">0</text>
+
+    <text class="col mid"    x="340" style="animation:fall21 2.6s -0.8s linear infinite">0</text>
+    <text class="col dim"    x="340" style="animation:fall21 2.6s -1.6s linear infinite">ナ</text>
+    <text class="col faint"  x="340" style="animation:fall21 2.6s -0.3s linear infinite">∑</text>
+
+    <text class="col mid"    x="356" style="animation:fall22 1.8s -1.1s linear infinite">1</text>
+    <text class="col dim"    x="356" style="animation:fall22 1.8s -0.4s linear infinite">ニ</text>
+    <text class="col faint"  x="356" style="animation:fall22 1.8s -1.9s linear infinite">⊕</text>
+
+    <text class="col bright" x="372" style="animation:fall23 2.4s -0.6s linear infinite">A</text>
+    <text class="col mid"    x="372" style="animation:fall23 2.4s -1.3s linear infinite">ヌ</text>
+    <text class="col dim"    x="372" style="animation:fall23 2.4s -0.1s linear infinite">1</text>
+
+    <text class="col bright" x="388" style="animation:fall24 1.6s -0.9s linear infinite">K</text>
+    <text class="col mid"    x="388" style="animation:fall24 1.6s -1.7s linear infinite">0</text>
+    <text class="col faint"  x="388" style="animation:fall24 1.6s -0.5s linear infinite">ネ</text>
+
+    <text class="col bright" x="404" style="animation:fall25 2.2s -1.4s linear infinite">K</text>
+    <text class="col mid"    x="404" style="animation:fall25 2.2s -0.7s linear infinite">ノ</text>
+    <text class="col dim"    x="404" style="animation:fall25 2.2s -2.0s linear infinite">Ω</text>
+
+    <text class="col bright" x="420" style="animation:fall26 1.9s -0.3s linear infinite">A</text>
+    <text class="col mid"    x="420" style="animation:fall26 1.9s -1.1s linear infinite">1</text>
+    <text class="col faint"  x="420" style="animation:fall26 1.9s -1.6s linear infinite">ハ</text>
+
+    <text class="col mid"    x="436" style="animation:fall27 2.5s -0.8s linear infinite">0</text>
+    <text class="col dim"    x="436" style="animation:fall27 2.5s -1.5s linear infinite">ヒ</text>
+    <text class="col faint"  x="436" style="animation:fall27 2.5s -0.2s linear infinite">∫</text>
+
+    <text class="col mid"    x="452" style="animation:fall28 2.1s -1.2s linear infinite">1</text>
+    <text class="col dim"    x="452" style="animation:fall28 2.1s -0.5s linear infinite">フ</text>
+    <text class="col faint"  x="452" style="animation:fall28 2.1s -1.9s linear infinite">Σ</text>
+
+    <text class="col bright" x="468" style="animation:fall29 1.7s -0.7s linear infinite">L</text>
+    <text class="col mid"    x="468" style="animation:fall29 1.7s -1.4s linear infinite">ヘ</text>
+    <text class="col dim"    x="468" style="animation:fall29 1.7s -0.1s linear infinite">0</text>
+
+    <text class="col bright" x="484" style="animation:fall30 2.3s -1.0s linear infinite">L</text>
+    <text class="col mid"    x="484" style="animation:fall30 2.3s -0.4s linear infinite">ホ</text>
+    <text class="col faint"  x="484" style="animation:fall30 2.3s -1.7s linear infinite">Λ</text>
+
+    <text class="col bright" x="500" style="animation:fall31 2.0s -0.6s linear infinite">M</text>
+    <text class="col mid"    x="500" style="animation:fall31 2.0s -1.3s linear infinite">1</text>
+    <text class="col dim"    x="500" style="animation:fall31 2.0s -0.2s linear infinite">マ</text>
+
+    <text class="col mid"    x="516" style="animation:fall32 2.7s -0.9s linear infinite">0</text>
+    <text class="col dim"    x="516" style="animation:fall32 2.7s -1.6s linear infinite">ミ</text>
+    <text class="col faint"  x="516" style="animation:fall32 2.7s -0.4s linear infinite">⊗</text>
+
+    <text class="col mid"    x="532" style="animation:fall33 1.8s -1.1s linear infinite">1</text>
+    <text class="col dim"    x="532" style="animation:fall33 1.8s -0.5s linear infinite">ム</text>
+    <text class="col faint"  x="532" style="animation:fall33 1.8s -2.0s linear infinite">∀</text>
+
+    <text class="col bright" x="548" style="animation:fall34 2.4s -0.3s linear infinite">A</text>
+    <text class="col mid"    x="548" style="animation:fall34 2.4s -1.2s linear infinite">メ</text>
+    <text class="col dim"    x="548" style="animation:fall34 2.4s -1.8s linear infinite">1</text>
+
+    <text class="col bright" x="564" style="animation:fall35 1.6s -0.8s linear infinite">G</text>
+    <text class="col mid"    x="564" style="animation:fall35 1.6s -1.5s linear infinite">モ</text>
+    <text class="col faint"  x="564" style="animation:fall35 1.6s -0.1s linear infinite">Ψ</text>
+
+    <text class="col bright" x="580" style="animation:fall36 2.2s -1.3s linear infinite">E</text>
+    <text class="col mid"    x="580" style="animation:fall36 2.2s -0.6s linear infinite">0</text>
+    <text class="col dim"    x="580" style="animation:fall36 2.2s -1.9s linear infinite">ヤ</text>
+
+    <text class="col bright" x="596" style="animation:fall37 1.9s -0.4s linear infinite">N</text>
+    <text class="col mid"    x="596" style="animation:fall37 1.9s -1.1s linear infinite">ユ</text>
+    <text class="col faint"  x="596" style="animation:fall37 1.9s -1.7s linear infinite">Ω</text>
+
+    <text class="col bright" x="612" style="animation:fall38 2.6s -0.7s linear infinite">T</text>
+    <text class="col mid"    x="612" style="animation:fall38 2.6s -1.4s linear infinite">1</text>
+    <text class="col dim"    x="612" style="animation:fall38 2.6s -0.2s linear infinite">ヨ</text>
+
+    <text class="col mid"    x="628" style="animation:fall39 2.1s -1.0s linear infinite">0</text>
+    <text class="col dim"    x="628" style="animation:fall39 2.1s -0.3s linear infinite">ラ</text>
+    <text class="col faint"  x="628" style="animation:fall39 2.1s -1.6s linear infinite">∑</text>
+
+    <text class="col mid"    x="644" style="animation:fall40 1.7s -0.6s linear infinite">1</text>
+    <text class="col dim"    x="644" style="animation:fall40 1.7s -1.3s linear infinite">リ</text>
+    <text class="col faint"  x="644" style="animation:fall40 1.7s -0.1s linear infinite">⊕</text>
+
+    <text class="col bright" x="660" style="animation:fall41 2.3s -0.9s linear infinite">S</text>
+    <text class="col mid"    x="660" style="animation:fall41 2.3s -1.7s linear infinite">ル</text>
+    <text class="col dim"    x="660" style="animation:fall41 2.3s -0.5s linear infinite">0</text>
+
+    <text class="col bright" x="676" style="animation:fall42 2.0s -1.2s linear infinite">C</text>
+    <text class="col mid"    x="676" style="animation:fall42 2.0s -0.5s linear infinite">レ</text>
+    <text class="col faint"  x="676" style="animation:fall42 2.0s -1.8s linear infinite">Λ</text>
+
+    <text class="col bright" x="692" style="animation:fall43 2.5s -0.2s linear infinite">A</text>
+    <text class="col mid"    x="692" style="animation:fall43 2.5s -1.0s linear infinite">1</text>
+    <text class="col dim"    x="692" style="animation:fall43 2.5s -1.6s linear infinite">ロ</text>
+
+    <text class="col bright" x="708" style="animation:fall44 1.8s -0.7s linear infinite">L</text>
+    <text class="col mid"    x="708" style="animation:fall44 1.8s -1.4s linear infinite">ワ</text>
+    <text class="col faint"  x="708" style="animation:fall44 1.8s -0.3s linear infinite">∫</text>
+
+    <text class="col bright" x="724" style="animation:fall45 2.4s -1.1s linear infinite">A</text>
+    <text class="col mid"    x="724" style="animation:fall45 2.4s -0.4s linear infinite">0</text>
+    <text class="col dim"    x="724" style="animation:fall45 2.4s -2.0s linear infinite">ヲ</text>
+
+    <text class="col mid"    x="740" style="animation:fall46 1.6s -0.8s linear infinite">0</text>
+    <text class="col dim"    x="740" style="animation:fall46 1.6s -1.5s linear infinite">ン</text>
+    <text class="col faint"  x="740" style="animation:fall46 1.6s -0.2s linear infinite">Σ</text>
+
+    <text class="col mid"    x="756" style="animation:fall47 2.2s -1.3s linear infinite">1</text>
+    <text class="col dim"    x="756" style="animation:fall47 2.2s -0.6s linear infinite">ヴ</text>
+    <text class="col faint"  x="756" style="animation:fall47 2.2s -1.9s linear infinite">Ω</text>
+
+    <text class="col bright" x="772" style="animation:fall48 1.9s -0.4s linear infinite">∞</text>
+    <text class="col mid"    x="772" style="animation:fall48 1.9s -1.1s linear infinite">0</text>
+    <text class="col dim"    x="772" style="animation:fall48 1.9s -1.7s linear infinite">ヵ</text>
+
+    <text class="col bright" x="788" style="animation:fall49 2.6s -0.9s linear infinite">∞</text>
+    <text class="col mid"    x="788" style="animation:fall49 2.6s -1.6s linear infinite">1</text>
+    <text class="col faint"  x="788" style="animation:fall49 2.6s -0.3s linear infinite">ヶ</text>
+  </g>
+</svg>
