@@ -67,6 +67,8 @@ fn me() -> Enthusiast {
 
 ---
 
+<img src="matrix.svg" width="100%"/>
+
 <img src="agent-network.svg" width="100%"/>
 
 ## 🚀 What I'm Building
