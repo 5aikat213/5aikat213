@@ -89,6 +89,22 @@ Multi-agent system where each agent has a distinct role, memory, toolset, and LL
 
 ---
 
+### 🛠️ ForgeFlow — Local-First Multi-Agent Orchestration Studio
+
+> Visual workflow builder for designing, testing, and running multi-agent pipelines against live LLM providers — entirely on your machine.
+
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.11-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+&nbsp;[→ View repo](https://github.com/5aikat213/ForgeFlow)
+
+React studio + FastAPI runtime for orchestrating multi-agent workflows visually. Supports 14+ providers (Anthropic, OpenAI, Bedrock, Gemini, Mistral, Ollama and more), MCP server integration, versioned workflow assets, and live run inspection — all bound to localhost by default with encrypted credential storage.
+
+---
+
 ### 🦀 localllm-rust-tool-calling
 
 > Rust chat server with function calling against a local LLM — `/chat` and `/search` endpoints, zero cloud dependency.
